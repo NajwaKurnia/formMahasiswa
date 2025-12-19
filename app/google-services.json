@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933684169958",
+    "project_id": "form-870e3",
+    "storage_bucket": "form-870e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933684169958:android:c92da33f60339ee91dff27",
+        "android_client_info": {
+          "package_name": "com.najwa.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTqgARv-HXf-sg5hS8yRvAlX_z24BnPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
